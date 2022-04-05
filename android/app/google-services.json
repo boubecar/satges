@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421094905492",
+    "project_id": "satge-52427",
+    "storage_bucket": "satge-52427.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421094905492:android:4248a92b9c7e5a7b090681",
+        "android_client_info": {
+          "package_name": "com.example.satge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421094905492-2l24dq1ngb1r8io7jkjl4mh8pp5c2icd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRlGLai9oN86CpXxsEt7YyPKZgXIOUbSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421094905492-2l24dq1ngb1r8io7jkjl4mh8pp5c2icd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
